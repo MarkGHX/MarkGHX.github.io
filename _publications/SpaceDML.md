@@ -2,7 +2,7 @@
 title: "SpaceDML: Enabling Distributed Machine Learning in Space Information Networks"
 collection: publications
 permalink: /publication/Spacedml
-excerpt: '**Hanxi Guo**, Qing Yang, Hao Wang, Yang Hua, Tao Song, Ruhui Ma, and Haibing Guan. "SpaceDML: Enabling Distributed Machine Learning in Space Information Networks." IEEE Network 35, no. 4 (2021): 82-87.'
+excerpt: '**Hanxi Guo**, Qing Yang, Hao Wang, Yang Hua, Tao Song, Ruhui Ma, and Haibing Guan.'
 date: 2021-08-20
 venue: 'IEEE Network'
 paperurl: 'https://ieeexplore.ieee.org/iel7/65/9520333/09520325.pdf?casa_token=AZlLE0r2RRwAAAAA:Ekwt9YAF_VD8jwMPKfZzWCgrFOzO-4MnHGZ8sS0Zoz-AvJyOa3oVHeP2lt4-UR49VvhFxF3ojw'
