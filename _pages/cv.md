@@ -44,8 +44,7 @@ Publications
 Awards
 ======
 * National Scholarship for Graduate Students, 2021.
-  
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
