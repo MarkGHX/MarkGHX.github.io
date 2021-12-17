@@ -6,5 +6,5 @@ permalink: /talks/mindspore2021
 venue: "MindSpore AI Security SIG Meeting 2021"
 date: 2021-09-06
 location: "Shanghai, China"
-talkurl: "https://www.bilibili.com/video/BV14g411V7nZ?spm_id_from=333.999.0.0"
+url: "https://www.bilibili.com/video/BV14g411V7nZ?spm_id_from=333.999.0.0"
 ---
