@@ -1,7 +1,7 @@
 ---
 title: "SpaceDML: Enabling Distributed Machine Learning in Space Information Networks"
 collection: publications
-permalink: /publication/SpaceDML
+permalink: /publication/Spacedml
 excerpt: 'Space information networks (SINs) have become a rapidly growing global infrastructure service. Massive volumes of high-resolution images and videos captured by low-orbit satellites and unmanned aerial vehicles have provided a rich training data source for machine learning applications. However, SIN devices' limited communication and computation resources make it challenging to perform machine learning efficiently with a swarm of SIN devices. In this article, we propose SpaceDML, a distributed machine learning system for SIN platforms that applies dynamic model compression techniques to adapt distributed machine learning training to SINs' limited bandwidth and unstable connectivity. SpaceDML has two key algorithm:s adaptive loss-aware quantization, which compresses models without sacrificing their quality, and partial weight averaging, which selectively averages active clients' partial model updates …'
 date: 2021-08-20
 venue: 'IEEE Network'
