@@ -9,4 +9,4 @@ location: "Shanghai, China"
 url: "https://www.bilibili.com/video/BV14g411V7nZ?spm_id_from=333.999.0.0"
 ---
 
-This talk is in Chinese at bilibili, from 51:20. [Link](https://www.bilibili.com/video/BV14g411V7nZ?spm_id_from=333.999.0.0)
+This talk is in Chinese at bilibili, from 00:51:20. [Link](https://www.bilibili.com/video/BV14g411V7nZ?spm_id_from=333.999.0.0)
