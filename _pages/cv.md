@@ -32,7 +32,7 @@ Work experience
 
 * **Summer 2021: Developer**
   * Google Summer of Code
-  * Project: Accelerate OpenCV.js DNN via WebNN (merged to OpenCV formal repo: [link](https://github.com/opencv/opencv/pull/20406))
+  * Project: Accelerate OpenCV.js DNN via WebNN (merged to OpenCV: [link](https://github.com/opencv/opencv/pull/20406))
   * Supervisor: Ningxin Hu
 
 Publications
