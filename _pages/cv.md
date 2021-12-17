@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Shanghai Jiao Tong University, 2016.9 - 2020.7**
-* **M.Eng. in Shanghai Jiao Tong University, 2020.9 - 2023.3**
+* **B.S. in CS at Shanghai Jiao Tong University, 2016.9 - 2020.7**
+* **M.Eng. in CS at Shanghai Jiao Tong University, 2020.9 - 2023.3**
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
