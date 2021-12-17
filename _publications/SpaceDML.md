@@ -12,7 +12,7 @@ Space information networks (SINs) have become a rapidly growing global infrastru
 
 [Download paper here](https://ieeexplore.ieee.org/iel7/65/9520333/09520325.pdf?casa_token=AZlLE0r2RRwAAAAA:Ekwt9YAF_VD8jwMPKfZzWCgrFOzO-4MnHGZ8sS0Zoz-AvJyOa3oVHeP2lt4-UR49VvhFxF3ojw)
 
-Recommended citation:
+<!-- Recommended citation:
 '''
 @article{guo2021spacedml,
   title={SpaceDML: Enabling Distributed Machine Learning in Space Information Networks},
@@ -24,4 +24,4 @@ Recommended citation:
   year={2021},
   publisher={IEEE}
 }
-'''
+''' -->

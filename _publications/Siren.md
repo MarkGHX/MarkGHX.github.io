@@ -14,7 +14,7 @@ This paper presents Siren, a Byzantine-robust federated learning system via a pr
 
 [Download paper here](https://dl.acm.org/doi/pdf/10.1145/3472883.3486990?casa_token=nXd8gc3VjSMAAAAA:mEcPNuaLTiiLponIsuK7P3JCDxKgt1cb_tZlAati74SWcmyvJGZmvVzBZvVchAk6g-j_XSeFn9KxxQ)
 
-Recommended citation:
+<!-- Recommended citation:
 '''
 @inproceedings{guo2021siren,
   title={Siren: Byzantine-robust Federated Learning via Proactive Alarming},
@@ -23,4 +23,4 @@ Recommended citation:
   pages={47--60},
   year={2021}
 }
-'''
+''' -->
