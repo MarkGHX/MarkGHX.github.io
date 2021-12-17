@@ -40,6 +40,10 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Awards
+======
+* National Scholarship for Graduate Students, 2021.
   
   
 Talks
