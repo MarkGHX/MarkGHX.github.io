@@ -43,7 +43,7 @@ Publications
 
 Awards
 ======
-* National Scholarship for Graduate Students, 2021.
+* **National Scholarship for Graduate Students, 2021.**
 
 Talks
 ======
