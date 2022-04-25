@@ -17,7 +17,7 @@ I'm currently a Master's student of computer science at Shanghai Jiao Tong Unive
 
 
 # Recent News
-**[2021.8]** Our paper "Siren: Byzantine-robust Federated Learning via Proactive Alarming." is accepted by **SoCC 2021**!
+**[2021.8]** Our paper "'Siren: Byzantine-robust Federated Learning via Proactive Alarming." is accepted by **SoCC 2021**!
 
 **[2021.8]** Our paper "SpaceDML: Enabling Distributed Machine Learning in Space Information Networks." is accepted by **IEEE Network**!
 
