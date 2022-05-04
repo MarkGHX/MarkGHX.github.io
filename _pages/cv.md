@@ -30,7 +30,7 @@ Work experience
 * **2020.10 - Present: Graduate Technical Intern**
   * Intel Asia-Pacific Research and Development Ltd., Shanghai, P. R. China
 
-* **2021.5 - 2021.7: Developer**
+* **2021.5 - 2021.9: Developer**
   * Google Summer of Code 2021
   * Project: Accelerate OpenCV.js DNN via WebNN (merged to OpenCV: [link](https://github.com/opencv/opencv/pull/20406))
   * Supervisor: Ningxin Hu
