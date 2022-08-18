@@ -15,7 +15,7 @@ Education
 * **M.Eng. in CS at Shanghai Jiao Tong University, 2020.9 - 2023.3**
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Work experience
+Work Experience
 ======
 <!-- * Summer 2015: Research Assistant
   * Github University
@@ -27,10 +27,10 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
 
-* **2020.10 - Present: Graduate Technical Intern**
+* **Graduate Technical Intern, 2020.10 - Present**
   * Intel Asia-Pacific Research and Development Ltd., Shanghai, P. R. China
 
-* **2021.5 - 2021.9: Developer**
+* **Student Developer, 2021.5 - 2021.9**
   * Google Summer of Code 2021
   * Project: Accelerate OpenCV.js DNN via WebNN (merged to OpenCV: [link](https://github.com/opencv/opencv/pull/20406))
   * Supervisor: Ningxin Hu
