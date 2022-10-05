@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Master's student of computer science at Shanghai Jiao Tong University, where I also received my Bachelor's degree. I'm supervised by [Prof. Ruhui Ma](https://cs.sjtu.edu.cn/PeopleDetail.aspx?id=328) and I also work with [Prof. Tao Song](https://cs.sjtu.edu.cn/PeopleDetail.aspx?id=424), [Prof. Yang Hua](https://pure.qub.ac.uk/en/persons/yang-hua), and [Prof. Hao Wang](https://haow.ca). My research interests center around federated learning and distributed systems.
+I'm currently a Master's student of computer science at Shanghai Jiao Tong University, where I also received my Bachelor's degree. I'm supervised by [Prof. Ruhui Ma](https://aisigsjtu.github.io/people/ruhuima/) and I also work with [Prof. Tao Song](https://cs.sjtu.edu.cn/PeopleDetail.aspx?id=424), [Prof. Yang Hua](https://scholar.google.com/citations?user=N0tFi8MAAAAJ&hl=en), and [Prof. Hao Wang](https://intellisys.haow.ca/haowang/). My research interests center around federated learning and distributed systems.
 
 
 
