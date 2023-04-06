@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Master's student of computer science at Shanghai Jiao Tong University, where I also received my Bachelor's degree. I'm supervised by [Prof. Ruhui Ma](https://aisigsjtu.github.io/people/ruhuima/) and I also work with [Prof. Tao Song](https://cs.sjtu.edu.cn/PeopleDetail.aspx?id=424), [Prof. Yang Hua](https://scholar.google.com/citations?user=N0tFi8MAAAAJ&hl=en), and [Prof. Hao Wang](https://intellisys.haow.ca/haowang/). My research interests center around federated learning and distributed systems.
+I obtained both my M.Eng in Computer Technology and B.Eng. in Computer Science from Shanghai Jiao Tong University (SJTU), where I was supervised by [Prof. Ruhui Ma](https://aisigsjtu.github.io/people/ruhuima/) and [Prof. Tao Song](https://cs.sjtu.edu.cn/PeopleDetail.aspx?id=424). I also worked with [Prof. Yang Hua](https://scholar.google.com/citations?user=N0tFi8MAAAAJ&hl=en), and [Prof. Hao Wang](https://intellisys.haow.ca/haowang/). My research interests center around federated learning and distributed systems.
 
 
 
@@ -17,6 +17,8 @@ I'm currently a Master's student of computer science at Shanghai Jiao Tong Unive
 
 
 # Recent News
+**[2023.3]** After 2.5 wonderful years, I'm graduated from Shanghai Jiao Tong University!
+
 **[2021.8]** Our paper &ldquo;Siren: Byzantine-robust Federated Learning via Proactive Alarming.&rdquo; is accepted by **SoCC 2021**!
 
 **[2021.8]** Our paper &ldquo;SpaceDML: Enabling Distributed Machine Learning in Space Information Networks.&rdquo; is accepted by **IEEE Network**!

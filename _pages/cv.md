@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Computer Science at Shanghai Jiao Tong University, 2016.9 - 2020.7**
-* **M.Eng. in Computer Science at Shanghai Jiao Tong University, 2020.9 - 2023.3**
+* **M.Eng. in Computer Technology at Shanghai Jiao Tong University, 2020.9 - 2023.3**
+* **B.Eng. in Computer Science at Shanghai Jiao Tong University, 2016.9 - 2020.6**
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work Experience
@@ -27,7 +27,7 @@ Work Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
 
-* **Graduate Technical Intern, 2020.10 - Present**
+* **Graduate Technical Intern, 2020.10 - 2023.3**
   * Intel Asia-Pacific Research and Development Ltd., Shanghai, P. R. China
 
 * **Student Developer, 2021.5 - 2021.9**
@@ -43,7 +43,8 @@ Publications
 
 Awards
 ======
-* **National Scholarship for Graduate Students** (Top 0.2% Nationwide). **2021.**
+* **Shanghai Outstanding Graduate**. **2023.3**
+* **National Scholarship for Graduate Students** (Top 0.2% Nationwide). **2021.12**
 
 Talks
 ======
