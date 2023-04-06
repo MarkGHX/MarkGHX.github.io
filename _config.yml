@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Hanxi Guo (郭 含熙)"
   avatar           : "profile.jpeg"
-  bio              : "CS Master candidate at Shanghai Jiao Tong University."
+  bio              : 
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=R3C7RsSZnjYC&hl=en&oi=ao"
   email            : "hanxiguo@sjtu.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Hanxi-Guo-2"
   uri              :
   bitbucket        :
   codepen          :
