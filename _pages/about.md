@@ -17,7 +17,7 @@ I received both my M.Eng. degree and B.Eng. degree in Computer Science from Shan
 
 
 # Recent News
-**[2023.3]** After 2.5 wonderful years, I'm graduated from Shanghai Jiao Tong University!
+**[2023.3]** After 2.5 wonderful years, I graduated from Shanghai Jiao Tong University!
 
 **[2021.8]** Our paper &ldquo;Siren: Byzantine-robust Federated Learning via Proactive Alarming.&rdquo; is accepted by **SoCC 2021**!
 
