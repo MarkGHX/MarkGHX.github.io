@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -14,9 +14,9 @@ Education
 * **M.Eng. in Computer Technology at Shanghai Jiao Tong University, 2020.9 - 2023.3**
 * **B.Eng. in Computer Science at Shanghai Jiao Tong University, 2016.9 - 2020.6**
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-
+<!-- 
 Work Experience
-======
+====== --> -->
 <!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -27,7 +27,7 @@ Work Experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
 
-* **Graduate Technical Intern, 2020.10 - 2023.3**
+<!-- * **Graduate Technical Intern, 2020.10 - 2023.3**
   * Intel Asia-Pacific Research and Development Ltd., Shanghai, P. R. China
 
 * **Student Developer, 2021.5 - 2021.9**
@@ -50,7 +50,7 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Teaching
 ======
