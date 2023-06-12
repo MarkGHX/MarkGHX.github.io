@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received both my M.Eng. degree and B.Eng. degree in Computer Science from Shanghai Jiao Tong University (SJTU), where I was supervised by [Prof. Ruhui Ma](https://aisigsjtu.github.io/people/ruhuima/) and [Prof. Tao Song](https://cs.sjtu.edu.cn/PeopleDetail.aspx?id=424). I also worked with [Prof. Yang Hua](https://scholar.google.com/citations?user=N0tFi8MAAAAJ&hl=en), and [Prof. Hao Wang](https://intellisys.haow.ca/haowang/). My research interests center around distributed computing.
+I received both my M.Eng. degree and B.Eng. degree in Computer Science from Shanghai Jiao Tong University (SJTU), where I was supervised by [Prof. Ruhui Ma](https://aisigsjtu.github.io/people/ruhuima/) and [Prof. Tao Song](https://cs.sjtu.edu.cn/PeopleDetail.aspx?id=424). I also worked with [Prof. Yang Hua](https://scholar.google.com/citations?user=N0tFi8MAAAAJ&hl=en), and [Prof. Hao Wang](https://intellisys.haow.ca/haowang/). My research interests center around distributed computing and federated learning.
 
 
 
