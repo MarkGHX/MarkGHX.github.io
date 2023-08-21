@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* **Ph.D. in Computer Science at Purdue University, West Lafayette, 2023.8 - Present**
 * **M.Eng. in Computer Technology at Shanghai Jiao Tong University, 2020.9 - 2023.3**
 * **B.Eng. in Computer Science at Shanghai Jiao Tong University, 2016.9 - 2020.6**
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->

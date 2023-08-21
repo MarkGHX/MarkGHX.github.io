@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm currently a 1st year Ph.D. student in Computer Science at Purdue University, advised by [Prof. Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). My research interests center around AI Security.
 
-I received both my M.Eng. degree and B.Eng. degree in Computer Science from Shanghai Jiao Tong University (SJTU), where I was supervised by [Prof. Ruhui Ma](https://aisigsjtu.github.io/people/ruhuima/) and [Prof. Tao Song](https://cs.sjtu.edu.cn/PeopleDetail.aspx?id=424). I also worked with [Prof. Yang Hua](https://scholar.google.com/citations?user=N0tFi8MAAAAJ&hl=en), and [Prof. Hao Wang](https://intellisys.haow.ca/haowang/). My research interests center around distributed computing and federated learning.
+Before joining Purdue, I received both my M.Eng. degree and B.Eng. degree in Computer Science from Shanghai Jiao Tong University (SJTU), where I was supervised by [Prof. Ruhui Ma](https://aisigsjtu.github.io/people/ruhuima/) and [Prof. Tao Song](https://cs.sjtu.edu.cn/PeopleDetail.aspx?id=424). I also worked with [Prof. Yang Hua](https://scholar.google.com/citations?user=N0tFi8MAAAAJ&hl=en), and [Prof. Hao Wang](https://intellisys.haow.ca/haowang/).
 
 
 
@@ -17,6 +18,8 @@ I received both my M.Eng. degree and B.Eng. degree in Computer Science from Shan
 
 
 # Recent News
+**[2023.8]** I've joined Purdue CS since Fall 2023.
+
 **[2023.3]** After 2.5 wonderful years, I graduated from Shanghai Jiao Tong University!
 
 **[2021.8]** Our paper &ldquo;Siren: Byzantine-robust Federated Learning via Proactive Alarming.&rdquo; is accepted by **SoCC 2021**!
