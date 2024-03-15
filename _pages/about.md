@@ -18,7 +18,7 @@ Before joining Purdue, I received both my M.Eng. degree and B.Eng. degree in Com
 
 
 # Recent News
-**[2024.2]** Our paper &ldquo;SIREN^+: Robust Federated Learning with Proactive Alarming and Differential Privacy.&rdquo; is accepted by **IEEE TDSC**!
+**[2024.2]** Our paper &ldquo;SIREN<sup>+</sup>: Robust Federated Learning with Proactive Alarming and Differential Privacy.&rdquo; is accepted by **IEEE TDSC**!
 
 **[2023.8]** I've joined Purdue CS since Fall 2023.
 
