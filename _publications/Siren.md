@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Siren
 excerpt: '**Hanxi Guo**, Hao Wang, Tao Song, Yang Hua, Zhangcheng Lv, Xiulang Jin, Zhengui Xue, Ruhui Ma, and Haibing Guan.'
 date: 2021-11-01
-venue: 'the ACM Symposium on Cloud Computing'
+venue: 'ACM Symposium on Cloud Computing'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3472883.3486990'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
@@ -14,6 +14,7 @@ With the popularity of machine learning on many applications, data privacy has b
 This paper presents Siren, a Byzantine-robust federated learning system via a proactive alarming mechanism. Compared with current Byzantine-robust aggregation rules, Siren can defend against attacks from a higher proportion of malicious clients in the system while keeping the global model performing normally. Extensive experiments against different attack methods are conducted under diverse settings on both independent and identically distributed (IID) and non-IID data. The experimental results illustrate the effectiveness of Siren comparing with several state-of-the-art defense methods.
 
 [Download paper here](https://dl.acm.org/doi/pdf/10.1145/3472883.3486990?casa_token=nXd8gc3VjSMAAAAA:mEcPNuaLTiiLponIsuK7P3JCDxKgt1cb_tZlAati74SWcmyvJGZmvVzBZvVchAk6g-j_XSeFn9KxxQ)
+[Github Repo](https://github.com/AISIGSJTU/Siren)
 
 <!-- Recommended citation:
 '''
