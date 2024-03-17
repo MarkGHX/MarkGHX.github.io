@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Accelerate OpenCV.js DNN Module via WebNN</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.bilibili.com/video/BV1oM4y1c7br?spm_id_from=444.41.0.0">OpenCV Webinar of OpenCV Chinese Channel, Dec. 2021.</a></li>
+  <li><a href="https://www.bilibili.com/video/BV1oM4y1c7br?spm_id_from=444.41.0.0">OpenCV Webinar in OpenCV Chinese Channel, Dec. 2021.</a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Siren: Byzantine-robust Federated Learning via Proactive Alarming</h4>
