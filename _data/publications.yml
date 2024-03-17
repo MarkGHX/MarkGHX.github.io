@@ -13,7 +13,7 @@ main:
     authors: <strong>Hanxi Guo</strong>, Hao Wang, Tao Song, Yang Hua, Zhangcheng Lv, Xiulang Jin, Zhengui Xue, Ruhui Ma, Haibing Guan
     conference_short: SoCC
     conference: ACM Symposium on Cloud Computing <strong>(SoCC)</strong>, 2021.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3472883.3486990
     code: https://github.com/AISIGSJTU/Siren
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/siren.png
