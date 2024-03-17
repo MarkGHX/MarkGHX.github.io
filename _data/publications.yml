@@ -1,0 +1,31 @@
+main:
+  - title: "Siren<sup>+</sup>: Robust Federated Learning with Proactive Alarming and Differential Privacy"
+    authors: <strong>Hanxi Guo</strong>, Hao Wang, Tao Song, Yang Hua, Ruhui Ma, Xiulang Jin, Zhengui Xue, Haibing Guan
+    conference_short: TDSC
+    conference: IEEE Transactions on Dependable and Secure Computing <strong>(TDSC)</strong>, 2024.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10423198
+    code: https://github.com/AISIGSJTU/Siren-Plus
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/siren-plus.png
+    notes: Early Access
+  
+  - title: "Siren: Byzantine-robust Federated Learning via Proactive Alarming"
+    authors: <strong>Hanxi Guo</strong>, Hao Wang, Tao Song, Yang Hua, Zhangcheng Lv, Xiulang Jin, Zhengui Xue, Ruhui Ma, Haibing Guan
+    conference_short: SoCC
+    conference: ACM Symposium on Cloud Computing <strong>(SoCC)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/AISIGSJTU/Siren
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/siren.png
+    # notes: Early Accept
+
+  - title: "SpaceDML: Enabling Distributed Machine Learning in Space Information Networks"
+    authors: <strong>Hanxi Guo</strong>, Qing Yang, Hao Wang, Yang Hua, Tao Song, Ruhui Ma, Haibing Guan
+    conference_short: Network
+    conference: IEEE Network, 2021.
+    pdf: https://ieeexplore.ieee.org/iel7/65/9520333/09520325.pdf?casa_token=AZlLE0r2RRwAAAAA:Ekwt9YAF_VD8jwMPKfZzWCgrFOzO-4MnHGZ8sS0Zoz-AvJyOa3oVHeP2lt4-UR49VvhFxF3ojw
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    image: ./assets/img/spacedml.png
