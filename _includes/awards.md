@@ -3,6 +3,7 @@
 <h4 style="margin:0 10px 0;">Shanghai Outstanding Graduate</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor><b>The highest honor for graduates in Shanghai, PRC.</b></autocolor></li>
   <li><autocolor>Shanghai Municipal Education Commission, Mar. 2023.</autocolor></li>
 </ul>
 
