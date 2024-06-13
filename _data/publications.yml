@@ -7,7 +7,7 @@ main:
     code: https://github.com/AISIGSJTU/Siren-Plus
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/siren-plus.png
-    notes: Early Access
+    # notes: Early Access
   
   - title: "Siren: Byzantine-robust Federated Learning via Proactive Alarming"
     authors: <strong>Hanxi Guo</strong>, Hao Wang, Tao Song, Yang Hua, Zhangcheng Lv, Xiulang Jin, Zhengui Xue, Ruhui Ma, Haibing Guan

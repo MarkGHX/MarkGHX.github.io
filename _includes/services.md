@@ -10,6 +10,7 @@
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858"><autocolor>IEEE Transactions on Dependable and Secure Computing (TDSC)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=71"><autocolor>IEEE Transactions on Parallel and Distributed Systems (TPDS)</autocolor></a></li>
 </ul>
