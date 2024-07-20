@@ -15,6 +15,7 @@ My research interests center around AI Security, especially for the security and
 <br>
 ## News
 
+- **[Jul. 2024]** Our paper &ldquo;UNIT: Backdoor Mitigation via Automated Neural Distribution Tightening.&rdquo; is accepted by **ECCV 2024**.
 - **[Feb. 2024]** Our paper &ldquo;Siren<sup>+</sup>: Robust Federated Learning with Proactive Alarming and Differential Privacy.&rdquo; is accepted by **IEEE TDSC**.
 - **[Aug. 2021]** Our paper &ldquo;Siren: Byzantine-robust Federated Learning via Proactive Alarming.&rdquo; is accepted by **SoCC 2021**.
 - **[Aug. 2021]** Our paper &ldquo;SpaceDML: Enabling Distributed Machine Learning in Space Information Networks.&rdquo; is accepted by **IEEE Network**.
