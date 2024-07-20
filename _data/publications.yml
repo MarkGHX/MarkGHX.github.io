@@ -1,4 +1,14 @@
 main:
+  - title: "UNIT: Backdoor Mitigation via Automated Neural Distribution Tightening"
+    authors: Siyuan Cheng<sup>*</sup>, Guangyu Shen<sup>*</sup>, Kaiyuan Zhang, Guanhong Tao, Shengwei An, <strong>Hanxi Guo</strong>, Shiqing Ma, Xiangyu Zhang
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://www.cs.purdue.edu/homes/cheng535/static/papers/eccv24_unit.pdf
+    code: https://github.com/Megum1/UNIT
+    # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
+    image: ./assets/img/UNIT.png
+    # notes: Early Access
+
   - title: "Siren<sup>+</sup>: Robust Federated Learning with Proactive Alarming and Differential Privacy"
     authors: <strong>Hanxi Guo</strong>, Hao Wang, Tao Song, Yang Hua, Ruhui Ma, Xiulang Jin, Zhengui Xue, Haibing Guan
     conference_short: TDSC
