@@ -1,5 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
-<h3 style="margin: 10px 0px -15px;">(* represents co-first authors)</h3>
+<h3 style="margin: 10px 0px -15px;">(* represents equal contribution)</h3>
 
 
 <div class="publications">
