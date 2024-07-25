@@ -1,4 +1,14 @@
 main:
+  - title: "Poisoning with A Pill: Circumventing Detection in Federated Learning"
+    authors: <strong>Hanxi Guo</strong>, Hao Wang, Tao Song, Tianhang Zheng, Yang Hua, Haibing Guan, Xiangyu Zhang
+    conference_short: Preprint
+    conference: ArXiv Preprint, 2024.
+    pdf: https://arxiv.org/pdf/2407.15389
+    # code: https://github.com/Megum1/UNIT
+    # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
+    image: ./assets/img/PoisonPill.jpg
+    # notes: Early Access
+
   - title: "UNIT: Backdoor Mitigation via Automated Neural Distribution Tightening"
     authors: Siyuan Cheng<sup>*</sup>, Guangyu Shen<sup>*</sup>, Kaiyuan Zhang, Guanhong Tao, Shengwei An, <strong>Hanxi Guo</strong>, Shiqing Ma, Xiangyu Zhang
     conference_short: ECCV
