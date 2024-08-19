@@ -17,7 +17,7 @@ My research interests center around AI Security, especially for the security and
 
 - **[Jul. 2024]** Our new preprint &ldquo;Poisoning with A Pill: Circumventing Detection in Federated Learning.&rdquo; has been released, introducing a generic and attack-agnostic augmentation approach to enhance the effectiveness and stealthiness of existing poisoning attacks in federated learning.
 - **[Jul. 2024]** Our paper &ldquo;UNIT: Backdoor Mitigation via Automated Neural Distribution Tightening.&rdquo; is accepted by **ECCV 2024**. Congrats to Siyuan!
-- **[Feb. 2024]** Our paper &ldquo;Siren`<sup>`+`</sup>`: Robust Federated Learning with Proactive Alarming and Differential Privacy.&rdquo; is accepted by **IEEE TDSC**.
+- **[Feb. 2024]** Our paper &ldquo;Siren<sup>+</sup>: Robust Federated Learning with Proactive Alarming and Differential Privacy.&rdquo; is accepted by **IEEE TDSC**.
 - **[Aug. 2021]** Our paper &ldquo;Siren: Byzantine-robust Federated Learning via Proactive Alarming.&rdquo; is accepted by **SoCC 2021**.
 - **[Aug. 2021]** Our paper &ldquo;SpaceDML: Enabling Distributed Machine Learning in Space Information Networks.&rdquo; is accepted by **IEEE Network**.
 
@@ -25,15 +25,15 @@ My research interests center around AI Security, especially for the security and
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/education.md %}
-`<br>`
+<br>
 
 {% include_relative _includes/work.md %}
-`<br>`
+<br>
 
 {% include_relative _includes/talks.md %}
-`<br>`
+<br>
 
 {% include_relative _includes/awards.md %}
-`<br>`
+<br>
 
 {% include_relative _includes/services.md %}
