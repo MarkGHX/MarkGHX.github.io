@@ -6,7 +6,7 @@ main:
     # pdf: https://hanxiguo.me/files/BiScope_v1.pdf
     # code: https://github.com/Megum1/UNIT
     # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
-    image: ./assets/img/BiScope.jpg
+    image: ./assets/img/BiScope.png
     notes: Coming Soon
 
   - title: "Poisoning with A Pill: Circumventing Detection in Federated Learning"
