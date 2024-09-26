@@ -2,7 +2,7 @@ main:
   - title: "BiScope: AI-generated Text Detection by Checking Memorization of Preceding Tokens"
     authors: <strong>Hanxi Guo</strong>, Siyuan Cheng, Xiaolong Jin, Zhuo Zhang, Kaiyuan Zhang, Guanhong Tao, Guangyu Shen, Xiangyu Zhang
     conference_short: NeurIPS
-    conference: Advances in Neural Information Processing Systems, 2024.
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     # pdf: https://hanxiguo.me/files/BiScope_v1.pdf
     # code: https://github.com/Megum1/UNIT
     # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
