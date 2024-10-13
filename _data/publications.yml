@@ -13,7 +13,7 @@ main:
   - title: "SkewAct: Red Teaming Large Language Models via Activation-Skewed Adversarial Prompt Optimization"
     authors: <strong>Hanxi Guo</strong>, Siyuan Cheng, Guanhong Tao, Guangyu Shen, Zhuo Zhang, Shengwei An, Kaiyuan Zhang, Xiangyu Zhang
     conference_short: NeurIPS Workshop
-    conference: NeurIPS 2024 Workshop on Red Teaming GenAI&#58 What Can We Learn from Adversaries?, 2024.
+    conference: NeurIPS 2024 Workshop on Red Teaming GenAI&colon; What Can We Learn from Adversaries?, 2024.
     conferencelink: https://nips.cc/virtual/2024/poster/95814
     # pdf: https://hanxiguo.me/files/BiScope_v1.pdf
     # code: https://github.com/Megum1/UNIT
