@@ -10,6 +10,17 @@ main:
     image: ./assets/img/BiScope.png
     notes: Coming Soon
 
+  - title: "SkewAct: Red Teaming Large Language Models via Activation-Skewed Adversarial Prompt Optimization"
+    authors: <strong>Hanxi Guo</strong>, Siyuan Cheng, Guanhong Tao, Guangyu Shen, Zhuo Zhang, Shengwei An, Kaiyuan Zhang, Xiangyu Zhang
+    conference_short: NeurIPS Workshop
+    conference: NeurIPS 2024 Workshop on Red Teaming GenAI<p>:</p> What Can We Learn from Adversaries?, 2024.
+    conferencelink: https://nips.cc/virtual/2024/poster/95814
+    # pdf: https://hanxiguo.me/files/BiScope_v1.pdf
+    # code: https://github.com/Megum1/UNIT
+    # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
+    image: ./assets/img/SkewAct.png
+    notes: Coming Soon
+
   - title: "Poisoning with A Pill: Circumventing Detection in Federated Learning"
     authors: <strong>Hanxi Guo</strong>, Hao Wang, Tao Song, Tianhang Zheng, Yang Hua, Haibing Guan, Xiangyu Zhang
     conference_short: Preprint
