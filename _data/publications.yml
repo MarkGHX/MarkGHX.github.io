@@ -14,7 +14,7 @@ main:
     authors: <strong>Hanxi Guo</strong>, Siyuan Cheng, Guanhong Tao, Guangyu Shen, Zhuo Zhang, Shengwei An, Kaiyuan Zhang, Xiangyu Zhang
     conference_short: NeurIPS Workshop
     conference: NeurIPS 2024 Workshop on Red Teaming GenAI&colon; What Can We Learn from Adversaries?, 2024.
-    conferencelink: https://nips.cc/virtual/2024/poster/95814
+    conferencelink: https://openreview.net/forum?id=QPdVqbcBgi
     # pdf: https://hanxiguo.me/files/BiScope_v1.pdf
     # code: https://github.com/Megum1/UNIT
     # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
@@ -25,7 +25,7 @@ main:
     authors: <strong>Hanxi Guo</strong>, Hao Wang, Tao Song, Tianhang Zheng, Yang Hua, Haibing Guan, Xiangyu Zhang
     conference_short: Preprint
     conference: ArXiv Preprint, 2024.
-    conferencelink: https://arxiv.org/pdf/2407.15389
+    conferencelink: https://arxiv.org/abs/2407.15389
     pdf: https://arxiv.org/pdf/2407.15389
     # code: https://github.com/Megum1/UNIT
     # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
@@ -36,8 +36,8 @@ main:
     authors: Siyuan Cheng<sup>*</sup>, Guangyu Shen<sup>*</sup>, Kaiyuan Zhang, Guanhong Tao, Shengwei An, <strong>Hanxi Guo</strong>, Shiqing Ma, Xiangyu Zhang
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
-    conferencelink: https://www.cs.purdue.edu/homes/cheng535/static/papers/eccv24_unit.pdf
-    pdf: https://www.cs.purdue.edu/homes/cheng535/static/papers/eccv24_unit.pdf
+    conferencelink: https://eccv.ecva.net/virtual/2024/poster/1956
+    pdf: https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07926.pdf
     code: https://github.com/Megum1/UNIT
     # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
     image: ./assets/img/UNIT.png
@@ -47,7 +47,7 @@ main:
     authors: <strong>Hanxi Guo</strong>, Hao Wang, Tao Song, Yang Hua, Ruhui Ma, Xiulang Jin, Zhengui Xue, Haibing Guan
     conference_short: TDSC
     conference: IEEE Transactions on Dependable and Secure Computing <strong>(TDSC)</strong>, 2024.
-    conferencelink: https://ieeexplore.ieee.org/abstract/document/10423198
+    conferencelink: https://ieeexplore.ieee.org/abstract/document/10423198/
     pdf: https://ieeexplore.ieee.org/abstract/document/10423198
     code: https://github.com/AISIGSJTU/Siren-Plus
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -58,8 +58,8 @@ main:
     authors: <strong>Hanxi Guo</strong>, Hao Wang, Tao Song, Yang Hua, Zhangcheng Lv, Xiulang Jin, Zhengui Xue, Ruhui Ma, Haibing Guan
     conference_short: SoCC
     conference: ACM Symposium on Cloud Computing <strong>(SoCC)</strong>, 2021.
-    conferencelink: https://dl.acm.org/doi/pdf/10.1145/3472883.3486990
-    pdf: https://dl.acm.org/doi/pdf/10.1145/3472883.3486990
+    conferencelink: https://dl.acm.org/doi/abs/10.1145/3472883.3486990
+    pdf: https://drive.google.com/file/d/1Ru-EONS-okuJCpYOQLs0FFv7uvsXZhqE/view
     code: https://github.com/AISIGSJTU/Siren
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/siren.png
@@ -69,8 +69,8 @@ main:
     authors: <strong>Hanxi Guo</strong>, Qing Yang, Hao Wang, Yang Hua, Tao Song, Ruhui Ma, Haibing Guan
     conference_short: Network
     conference: IEEE Network, 2021.
-    conferencelink: https://ieeexplore.ieee.org/iel7/65/9520333/09520325.pdf?casa_token=AZlLE0r2RRwAAAAA:Ekwt9YAF_VD8jwMPKfZzWCgrFOzO-4MnHGZ8sS0Zoz-AvJyOa3oVHeP2lt4-UR49VvhFxF3ojw
-    pdf: https://ieeexplore.ieee.org/iel7/65/9520333/09520325.pdf?casa_token=AZlLE0r2RRwAAAAA:Ekwt9YAF_VD8jwMPKfZzWCgrFOzO-4MnHGZ8sS0Zoz-AvJyOa3oVHeP2lt4-UR49VvhFxF3ojw
+    conferencelink: https://ieeexplore.ieee.org/abstract/document/9520325/
+    pdf: https://drive.google.com/file/d/1M-F5AlIBZyB0_vuzTPqVyPKARcp7j7TQ/view
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
