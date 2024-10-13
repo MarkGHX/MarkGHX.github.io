@@ -1,4 +1,15 @@
 main:
+  - title: "BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target"
+    authors: Guangyu Shen, Siyuan Cheng, Zhuo Zhang, Guanhong Tao, Kaiyuan Zhang, <strong>Hanxi Guo</strong>, Lu Yan, Xiaolong Jin, Shengwei An, Shiqing Ma, Xiangyu Zhang
+    conference_short: S&P
+    conference: IEEE Symposium on Security and Privacy (S&P), 2025.
+    conferencelink: 
+    # pdf: https://hanxiguo.me/files/BiScope_v1.pdf
+    # code: https://github.com/Megum1/UNIT
+    # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
+    image: ./assets/img/BAIT.jpg
+    notes: Coming Soon
+  
   - title: "BiScope: AI-generated Text Detection by Checking Memorization of Preceding Tokens"
     authors: <strong>Hanxi Guo</strong>, Siyuan Cheng, Xiaolong Jin, Zhuo Zhang, Kaiyuan Zhang, Guanhong Tao, Guangyu Shen, Xiangyu Zhang
     conference_short: NeurIPS
@@ -19,6 +30,17 @@ main:
     # code: https://github.com/Megum1/UNIT
     # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
     image: ./assets/img/SkewAct.png
+    notes: Coming Soon
+
+  - title: "MultiVerse: Exposing Large Language Model Alignment Problems in Diverse Worlds"
+    authors: Xiaolong Jin, Zhuo Zhang, Guangyu Shen, <strong>Hanxi Guo</strong>, Kaiyuan Zhang, Siyuan Cheng, Xiangyu Zhang
+    conference_short: NeurIPS Workshop
+    conference: NeurIPS 2024 Workshop on Safe Generative AI, 2024.
+    conferencelink: https://openreview.net/forum?id=UIqnbwwFUB
+    # pdf: https://hanxiguo.me/files/BiScope_v1.pdf
+    # code: https://github.com/Megum1/UNIT
+    # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
+    image: ./assets/img/MultiVerse.jpg
     notes: Coming Soon
 
   - title: "Poisoning with A Pill: Circumventing Detection in Federated Learning"
