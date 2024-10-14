@@ -1,4 +1,4 @@
-<h2 style="margin: 60px 0px 10px;">News</h2>
+## News
 
 <!-- - **[Oct. 2024]** Our paper &ldquo;MultiVerse: Exposing Large Language Model Alignment Problems in Diverse Worlds.&rdquo; is accepted by **NeurIPS 2024 Workshop on Safe GenAI**. Congrats to Xiaolong!
 - **[Oct. 2024]** Our paper &ldquo;SkewAct: Red Teaming Large Language Models via Activation-Skewed Adversarial Prompt Optimization.&rdquo; is accepted by **NeurIPS 2024 Workshop on Red Teaming GenAI**.
