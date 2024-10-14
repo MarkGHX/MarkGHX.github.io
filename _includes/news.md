@@ -16,7 +16,7 @@
 <li><strong>[Sep. 2024]</strong>Our paper &ldquo;BiScope: AI-generated Text Detection by Checking Memorization of Preceding Tokens.&rdquo; is accepted by <strong>NeurIPS 2024</strong>.</li>
 <li><strong>[Sep. 2024]</strong>Our paper &ldquo;BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target.&rdquo; is accepted by <strong>S&P 2025</strong>. Congrats to Guangyu!</li>
 <li><strong>[Jul. 2024]</strong>Our new preprint &ldquo;Poisoning with A Pill: Circumventing Detection in Federated Learning.&rdquo; has been released, introducing a generic and attack-agnostic augmentation approach to enhance the effectiveness and stealthiness of existing poisoning attacks in federated learning.</li>
-<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
+<a href="javascript:toggle_vis('newsmore')">Show more</a>
 <div id="newsmore" style="display:none"> 
   <li><strong>[Jul. 2024]</strong>Our paper &ldquo;UNIT: Backdoor Mitigation via Automated Neural Distribution Tightening.&rdquo; is accepted by <strong>ECCV 2024</strong>. Congrats to Siyuan!</li>
   <li><strong>[Feb. 2024]</strong>Our paper &ldquo;Our paper &ldquo;Siren<sup>+</sup>: Robust Federated Learning with Proactive Alarming and Differential Privacy.&rdquo; is accepted by <strong>IEEE TDSC</strong>.</li>
