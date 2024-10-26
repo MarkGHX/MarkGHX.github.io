@@ -12,6 +12,6 @@
 
 <ul style="margin:0 0px 5px;">
   <li><autocolor><b>Google Summer of Code</b></autocolor></li>
-  <li><autocolor>May 2021 - Sep. 2021</autocolor></li>
+  <li><autocolor>May 2021 - Sept. 2021</autocolor></li>
   <li><autocolor>Project: Accelerate OpenCV.js DNN via WebNN (merged to OpenCV: <a href="https://github.com/opencv/opencv/pull/20406">link</a>)</autocolor></li>
 </ul>

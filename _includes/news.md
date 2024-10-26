@@ -13,8 +13,8 @@
 <ul>
 <li><strong>[Oct. 2024]</strong>Our paper &ldquo;MultiVerse: Exposing Large Language Model Alignment Problems in Diverse Worlds.&rdquo; is accepted by <strong>NeurIPS 2024 Workshop on Safe GenAI</strong>. Congrats to Xiaolong!</li>
 <li><strong>[Oct. 2024]</strong>Our paper &ldquo;SkewAct: Red Teaming Large Language Models via Activation-Skewed Adversarial Prompt Optimization.&rdquo; is accepted by <strong>NeurIPS 2024 Workshop on Red Teaming GenAI</strong>.</li>
-<li><strong>[Sep. 2024]</strong>Our paper &ldquo;BiScope: AI-generated Text Detection by Checking Memorization of Preceding Tokens.&rdquo; is accepted by <strong>NeurIPS 2024</strong>.</li>
-<li><strong>[Sep. 2024]</strong>Our paper &ldquo;BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target.&rdquo; is accepted by <strong>S&P 2025</strong>. Congrats to Guangyu!</li>
+<li><strong>[Sept. 2024]</strong>Our paper &ldquo;BiScope: AI-generated Text Detection by Checking Memorization of Preceding Tokens.&rdquo; is accepted by <strong>NeurIPS 2024</strong>.</li>
+<li><strong>[Sept. 2024]</strong>Our paper &ldquo;BAIT: Large Language Model Backdoor Scanning by Inverting Attack Target.&rdquo; is accepted by <strong>S&P 2025</strong>. Congrats to Guangyu!</li>
 <li><strong>[Jul. 2024]</strong>Our new preprint &ldquo;Poisoning with A Pill: Circumventing Detection in Federated Learning.&rdquo; has been released, introducing a generic and attack-agnostic augmentation approach to enhance the effectiveness and stealthiness of existing poisoning attacks in federated learning.</li>
 <a href="javascript:toggle_vis('newsmore')">Show more</a>
 <div id="newsmore" style="display:none"> 

@@ -1,5 +1,12 @@
 ## Awards
 
+<h4 style="margin:0 10px 0;">NeurIPS 2024 Scholar Award</h4>
+
+<ul style="margin:0 0 5px;">
+  <li><autocolor><b>Financial assistance grant for selected attendees at NeurIPS 2024.</b></autocolor></li>
+  <li><autocolor> Neural Information Processing Foundation, Oct. 2024.</autocolor></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Shanghai Outstanding Graduate</h4>
 
 <ul style="margin:0 0 5px;">
