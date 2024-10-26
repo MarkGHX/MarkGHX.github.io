@@ -7,6 +7,8 @@ I am currently a second-year Ph.D. student in Computer Science at Purdue Univers
 
 My research interests center around AI Security and Ethics, especially for such topics in Federated Learning and Large Language Models.
 
+Personal CV is upon request.
+
 <!-- ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
