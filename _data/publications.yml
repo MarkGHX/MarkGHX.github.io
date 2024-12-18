@@ -15,17 +15,17 @@ main:
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     conferencelink: https://nips.cc/virtual/2024/poster/95814
-    # pdf: https://hanxiguo.me/files/BiScope_v1.pdf
-    # code: https://github.com/Megum1/UNIT
+    pdf: https://openreview.net/pdf?id=Hew2JSDycr
+    code: https://github.com/MarkGHX/BiScope
     # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
     image: ./assets/img/BiScope.png
-    notes: Coming Soon
+    # notes: Coming Soon
 
   - title: "SkewAct: Red Teaming Large Language Models via Activation-Skewed Adversarial Prompt Optimization"
     authors: <strong>Hanxi Guo</strong>, Siyuan Cheng, Guanhong Tao, Guangyu Shen, Zhuo Zhang, Shengwei An, Kaiyuan Zhang, Xiangyu Zhang
     conference_short: NeurIPS Workshop
     conference: NeurIPS 2024 Workshop on Red Teaming GenAI&colon; What Can We Learn from Adversaries?, 2024.
-    conferencelink: https://openreview.net/forum?id=QPdVqbcBgi
+    conferencelink: https://neurips.cc/virtual/2024/106790
     # pdf: https://hanxiguo.me/files/BiScope_v1.pdf
     # code: https://github.com/Megum1/UNIT
     # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
@@ -36,7 +36,7 @@ main:
     authors: Xiaolong Jin, Zhuo Zhang, Guangyu Shen, <strong>Hanxi Guo</strong>, Kaiyuan Zhang, Siyuan Cheng, Xiangyu Zhang
     conference_short: NeurIPS Workshop
     conference: NeurIPS 2024 Workshop on Safe Generative AI, 2024.
-    conferencelink: https://openreview.net/forum?id=UIqnbwwFUB
+    conferencelink: https://neurips.cc/virtual/2024/106254
     # pdf: https://hanxiguo.me/files/BiScope_v1.pdf
     # code: https://github.com/Megum1/UNIT
     # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
