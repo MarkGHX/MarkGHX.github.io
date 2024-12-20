@@ -37,11 +37,11 @@ main:
     conference_short: NeurIPS Workshop
     conference: NeurIPS 2024 Workshop on Safe Generative AI, 2024.
     conferencelink: https://neurips.cc/virtual/2024/106254
-    # pdf: https://hanxiguo.me/files/BiScope_v1.pdf
+    pdf: https://openreview.net/pdf?id=UIqnbwwFUB
     # code: https://github.com/Megum1/UNIT
     # bibtex: https://www.cs.purdue.edu/homes/cheng535/#
     image: ./assets/img/MultiVerse.jpg
-    notes: Coming Soon
+    # notes: Coming Soon
 
   - title: "Poisoning with A Pill: Circumventing Detection in Federated Learning"
     authors: <strong>Hanxi Guo</strong>, Hao Wang, Tao Song, Tianhang Zheng, Yang Hua, Haibing Guan, Xiangyu Zhang
